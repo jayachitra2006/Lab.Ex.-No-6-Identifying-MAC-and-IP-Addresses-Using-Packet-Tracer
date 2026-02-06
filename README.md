@@ -51,6 +51,12 @@ ________________________________________
 •	PDU details for local communication<br>
 •	PDU details for remote communication<br>
 •	Tables showing MAC/IP changes through each device<br>
+<img width="1912" height="1057" alt="image" src="https://github.com/user-attachments/assets/15e98488-a703-44f4-8442-6a767d4a650d" />
+<img width="1913" height="1118" alt="image" src="https://github.com/user-attachments/assets/c49e306f-0270-4815-9fc8-1988d4b25ec2" />
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/17f95a2c-290d-4185-9ce8-3fef487f6e42" />
+
+
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
